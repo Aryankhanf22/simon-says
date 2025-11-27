@@ -12,7 +12,6 @@ Repeat the flashing color sequences and reach the highest level! ✨
 ## ⚡ Features
 
 - 🔹 **Glowing color buttons** with smooth animation  
-- 🔹 **Sound effects** for each button  
 - 🔹 **Level progression** — sequences get longer  
 - 🔹 **Game over animation** with restart  
 
