@@ -5,7 +5,7 @@ Repeat the flashing color sequences and reach the highest level! ✨
 
 ---
 
-👉 Play Now: 
+👉 Play Now: https://aryankhanf22.github.io/simon-says/
 
 ---
 
