@@ -31,7 +31,6 @@ Repeat the flashing color sequences and reach the highest level! ✨
 - HTML5 & CSS3 🎨  
 - JavaScript 💻  
 
----
 
 
 
