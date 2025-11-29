@@ -66,4 +66,13 @@ usersequence=[];
 gamesequence=[];
 start=false;
 level=0;
+
 };
+
+
+
+
+
+
+
+
