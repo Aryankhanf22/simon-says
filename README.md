@@ -19,17 +19,17 @@ Repeat the flashing color sequences and reach the highest level! ✨
 
 ## 🎯 How to Play
 
-1. Press **any key** to start.  
-2. Watch the **flashing color sequence**.  
-3. Click the buttons in the **same order**.  
-4. Repeat until you make a mistake.  
+🔹 Press **any key** to start.  
+🔹 Watch the **flashing color sequence**.  
+🔹 Click the buttons in the **same order**.  
+🔹 Repeat until you make a mistake.  
 
 ---
 
 ## 🛠 Built With
 
-- HTML5 & CSS3 🎨  
-- JavaScript 💻  
+🔹 HTML5 & CSS3 🎨  
+🔹 JavaScript 💻  
 
 
 
