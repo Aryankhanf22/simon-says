@@ -3,7 +3,7 @@
 Test your memory with this fun and interactive **Simon Says** game!  
 Repeat the flashing color sequences and challenge yourself to reach the highest level 🚀
 
-👉 **Play Now:** https://aryankhan22.github.io/simon-says/
+👉 **Play Now:** https://aryankhanf22.github.io/simon-says/
 
 ---
 
